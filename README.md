@@ -104,7 +104,7 @@ Link to git repository:
 
 ```
 dependencies = [
-  "flet-spinkit @ git+https://github.com/Muddassir-Farooq-official/flet-spinkit",
+  "flet-spinkit @ git+https://github.com/Muddassir-Farooq-official/flet_spinkit.git",
   "flet>=0.80.5",
 ]
 ```
