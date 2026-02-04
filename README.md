@@ -92,6 +92,8 @@ def main(page: ft.Page):
 ft.run(main)
 ```
 
+![Demo](Flet_Spinkit.gif)
+
 ## Installation
 
 Add dependency to `pyproject.toml` of your Flet app:
